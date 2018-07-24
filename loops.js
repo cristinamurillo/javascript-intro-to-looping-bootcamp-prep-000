@@ -1,3 +1,5 @@
-for(var i=0; i<25;i++){
-  
+function example(array){
+  for(var i=0; i<25;i++){
+    
+  } 
 }
